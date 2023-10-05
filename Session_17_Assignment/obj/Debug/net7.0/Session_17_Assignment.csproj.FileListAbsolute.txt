@@ -1,0 +1,14 @@
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\bin\Debug\net7.0\Session_17_Assignment.exe
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\bin\Debug\net7.0\Session_17_Assignment.deps.json
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\bin\Debug\net7.0\Session_17_Assignment.runtimeconfig.json
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\bin\Debug\net7.0\Session_17_Assignment.dll
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\bin\Debug\net7.0\Session_17_Assignment.pdb
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\obj\Debug\net7.0\Session_17_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\obj\Debug\net7.0\Session_17_Assignment.AssemblyInfoInputs.cache
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\obj\Debug\net7.0\Session_17_Assignment.AssemblyInfo.cs
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\obj\Debug\net7.0\Session_17_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\obj\Debug\net7.0\Session_17_Assignment.dll
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\obj\Debug\net7.0\refint\Session_17_Assignment.dll
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\obj\Debug\net7.0\Session_17_Assignment.pdb
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\obj\Debug\net7.0\Session_17_Assignment.genruntimeconfig.cache
+C:\Users\river\Documents\marlabs\Assignments\Session_17_Assignment\obj\Debug\net7.0\ref\Session_17_Assignment.dll
