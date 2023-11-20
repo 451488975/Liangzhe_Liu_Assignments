@@ -1,0 +1,15 @@
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\bin\Debug\net8.0\Session_44_Assignment.exe
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\bin\Debug\net8.0\Session_44_Assignment.deps.json
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\bin\Debug\net8.0\Session_44_Assignment.runtimeconfig.json
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\bin\Debug\net8.0\Session_44_Assignment.dll
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\bin\Debug\net8.0\Session_44_Assignment.pdb
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\obj\Debug\net8.0\Session_44_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\obj\Debug\net8.0\Session_44_Assignment.AssemblyInfoInputs.cache
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\obj\Debug\net8.0\Session_44_Assignment.AssemblyInfo.cs
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\obj\Debug\net8.0\Session_44_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\obj\Debug\net8.0\Session_44_Assignment.sourcelink.json
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\obj\Debug\net8.0\Session_44_Assignment.dll
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\obj\Debug\net8.0\refint\Session_44_Assignment.dll
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\obj\Debug\net8.0\Session_44_Assignment.pdb
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\obj\Debug\net8.0\Session_44_Assignment.genruntimeconfig.cache
+C:\Users\river\Documents\marlabs\Assignments\Session_44_Assignment\obj\Debug\net8.0\ref\Session_44_Assignment.dll
